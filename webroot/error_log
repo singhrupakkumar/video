@@ -1,0 +1,543 @@
+[04-Aug-2017 10:03:27 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:06:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 481
+[04-Aug-2017 10:06:54 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:33:59 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 10:34:03 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 11:16:23 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 511
+[04-Aug-2017 11:17:31 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:19:01 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:22:36 UTC] PHP Fatal error:  Call to a member function save() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 519
+[05-Aug-2017 08:23:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 137
+[05-Aug-2017 11:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 578
+[05-Aug-2017 11:14:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:17:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 12:41:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 175
+[05-Aug-2017 12:42:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[05-Aug-2017 12:42:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[08-Aug-2017 11:19:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 618
+[09-Aug-2017 07:41:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 08:23:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 08:23:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 11:27:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 437
+[09-Aug-2017 12:15:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 50
+[09-Aug-2017 12:40:22 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 29
+[09-Aug-2017 12:41:26 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 30
+[09-Aug-2017 12:42:37 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:42:42 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:43:51 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:55 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:58 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:16 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:20 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:55:00 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[09-Aug-2017 13:11:06 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:46:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 06:04:23 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 47
+[10-Aug-2017 06:56:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 36
+[10-Aug-2017 07:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[10-Aug-2017 07:30:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[11-Aug-2017 11:02:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:02:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:03:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:19:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 101
+[16-Aug-2017 07:50:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 106
+[16-Aug-2017 07:56:46 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 6
+[16-Aug-2017 11:24:38 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 717
+[16-Aug-2017 11:41:34 UTC] PHP Parse error:  syntax error, unexpected 'request' (T_STRING) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 726
+[16-Aug-2017 11:42:45 UTC] PHP Fatal error:  Call to a member function subject() on array in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 739
+[17-Aug-2017 06:22:52 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Email' not found in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ContactsController.php on line 106
+[17-Aug-2017 09:40:17 UTC] PHP Parse error:  syntax error, unexpected '$is_exist' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/StaticpagesController.php on line 91
+[17-Aug-2017 10:26:15 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:33 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:53 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:31:20 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/StaticpagesController.php on line 60
+[17-Aug-2017 11:40:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 102
+[18-Aug-2017 07:44:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Template/Users/home.ctp on line 211
+[18-Aug-2017 09:59:33 UTC] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ReviewsController.php on line 44
+[18-Aug-2017 12:59:56 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[18-Aug-2017 12:59:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[21-Aug-2017 05:52:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 05:53:01 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 09:37:41 UTC] PHP Fatal error:  Cannot use object of type Cake\I18n\FrozenTime as array in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 136
+[30-Aug-2017 07:29:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 07:29:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 09:28:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 160
+[10-Oct-2017 11:13:02 UTC] PHP Fatal error:  Class 'App\Controller\Configure' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 489
+[10-Oct-2017 11:13:10 UTC] PHP Fatal error:  Class 'App\Controller\Configure' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 489
+[10-Oct-2017 11:13:13 UTC] PHP Fatal error:  Class 'App\Controller\Configure' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 489
+[10-Oct-2017 14:15:30 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\Query as array in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/View/Widget/SelectBoxWidget.php on line 205
+[11-Oct-2017 09:58:41 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\slugify() in /home/rupak/public_html/affiliate/src/Controller/Admin/StoresController.php on line 91
+[11-Oct-2017 09:58:52 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\slugify() in /home/rupak/public_html/affiliate/src/Controller/Admin/StoresController.php on line 91
+[11-Oct-2017 09:59:29 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\slugify() in /home/rupak/public_html/affiliate/src/Controller/Admin/StoresController.php on line 91
+[11-Oct-2017 09:59:56 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\slugify() in /home/rupak/public_html/affiliate/src/Controller/Admin/StoresController.php on line 91
+[11-Oct-2017 10:00:45 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\slugify() in /home/rupak/public_html/affiliate/src/Controller/Admin/StoresController.php on line 91
+[09-Nov-2017 13:02:29 UTC] PHP Fatal error:  Class 'App\Controller\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:08:34 UTC] PHP Fatal error:  Class 'Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:09:28 UTC] PHP Fatal error:  Class 'Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:14:15 UTC] PHP Fatal error:  Class 'Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:15:59 UTC] PHP Fatal error:  Class 'Mailchimpphp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:23:30 UTC] PHP Fatal error:  Class 'Mailchimpphp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 815
+[09-Nov-2017 13:43:42 UTC] PHP Fatal error:  require() [<a href='https://secure.php.net/function.require'>function.require</a>]: Failed opening required '../Lib/src/Mailchimp.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 811
+[09-Nov-2017 13:51:27 UTC] PHP Fatal error:  Class 'App\Controller\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 816
+[09-Nov-2017 13:53:26 UTC] PHP Fatal error:  Class 'App\Controller\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 816
+[09-Nov-2017 13:53:45 UTC] PHP Fatal error:  Class 'App\Controller\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 816
+[09-Nov-2017 14:02:08 UTC] PHP Fatal error:  Class 'Cake\Mailchemp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 816
+[09-Nov-2017 14:07:31 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp_Folders' not found in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/Mailchimp/Mailchimp.php on line 195
+[14-Nov-2017 10:53:55 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/rupak/public_html/affiliate/src/Template/Stores/index.ctp on line 40
+[14-Nov-2017 10:53:58 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/rupak/public_html/affiliate/src/Template/Stores/index.ctp on line 40
+[14-Nov-2017 11:00:02 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 47
+[14-Nov-2017 11:00:03 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 47
+[14-Nov-2017 11:00:05 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 47
+[15-Nov-2017 09:57:38 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 53
+[15-Nov-2017 10:51:36 UTC] PHP Parse error:  syntax error, unexpected '$color' (T_VARIABLE) in /home/rupak/public_html/affiliate/src/Template/Stores/index.ctp on line 133
+[15-Nov-2017 10:51:39 UTC] PHP Parse error:  syntax error, unexpected '$color' (T_VARIABLE) in /home/rupak/public_html/affiliate/src/Template/Stores/index.ctp on line 133
+[15-Nov-2017 10:51:58 UTC] PHP Parse error:  syntax error, unexpected '$color' (T_VARIABLE) in /home/rupak/public_html/affiliate/src/Template/Stores/index.ctp on line 133
+[16-Nov-2017 11:50:40 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[16-Nov-2017 11:51:16 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 55
+[16-Nov-2017 11:52:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 115
+[16-Nov-2017 12:18:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rupak/public_html/affiliate/src/Template/Products/offers.ctp on line 65
+[20-Nov-2017 13:09:18 UTC] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 261
+[22-Nov-2017 09:30:18 UTC] PHP Fatal error:  Call to undefined function pritn_r() in /home/rupak/public_html/affiliate/src/Template/Element/Admin/sidebar.ctp on line 23
+[22-Nov-2017 11:51:12 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[22-Nov-2017 11:52:50 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[23-Nov-2017 07:53:46 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 87
+[23-Nov-2017 07:54:06 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 87
+[23-Nov-2017 07:56:20 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 87
+[23-Nov-2017 07:58:41 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 87
+[23-Nov-2017 11:19:48 UTC] PHP Fatal error:  Call to a member function subject() on array in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 745
+[23-Nov-2017 13:42:29 UTC] PHP Fatal error:  Call to undefined method Cake\ORM\ResultSet::all() in /home/rupak/public_html/affiliate/src/Controller/StoresController.php on line 139
+[24-Nov-2017 13:24:30 UTC] PHP Fatal error:  Call to undefined function fullBaseUrl() in /home/rupak/public_html/affiliate/src/Template/Users/referearn.ctp on line 69
+[24-Nov-2017 13:26:38 UTC] PHP Fatal error:  Class 'App\Controller\Router' not found in /home/rupak/public_html/affiliate/src/Controller/AppController.php on line 114
+[24-Nov-2017 14:27:55 UTC] PHP Fatal error:  Class 'Router' not found in /home/rupak/public_html/affiliate/src/Template/Users/referearn.ctp on line 69
+[27-Nov-2017 11:34:41 UTC] PHP Fatal error:  Call to a member function all() on null in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 96
+[27-Nov-2017 12:23:51 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:23:51 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 64
+[27-Nov-2017 12:26:24 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:26:24 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:26:45 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:26:45 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:27:34 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:27:34 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:30:59 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:30:59 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:31:35 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:31:35 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:33:21 UTC] PHP Warning:  Uncaught exception 'InvalidArgumentException' with message 'Products is not associated with Cats' in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php:496
+Stack trace:
+#0 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(321): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'Cats', Array, Array)
+#1 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(450): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php(421): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(1038): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Query.php(990): Cake\ORM\Query->_tr in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/EagerLoader.php on line 496
+[27-Nov-2017 12:33:21 UTC] PHP Fatal error:  __debuginfo() must return an array in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 72
+[27-Nov-2017 12:44:24 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 66
+[28-Nov-2017 14:26:46 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[28-Nov-2017 14:28:18 UTC] PHP Fatal error:  Class 'Cake\CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[28-Nov-2017 14:32:09 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[28-Nov-2017 14:33:01 UTC] PHP Fatal error:  Class 'croscon\CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[29-Nov-2017 07:37:28 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 44
+[29-Nov-2017 07:42:20 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[29-Nov-2017 07:42:36 UTC] PHP Fatal error:  Class 'App\Controller\CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[29-Nov-2017 07:42:57 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 43
+[29-Nov-2017 07:43:42 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 44
+[29-Nov-2017 07:46:32 UTC] PHP Fatal error:  Class 'lib\CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 44
+[29-Nov-2017 07:46:35 UTC] PHP Fatal error:  Class 'lib\CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 44
+[29-Nov-2017 08:01:19 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 44
+[29-Nov-2017 11:11:33 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:12:06 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:12:09 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:12:19 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:12:59 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:14:12 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:14:31 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 48
+[29-Nov-2017 11:15:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 45
+[29-Nov-2017 11:17:37 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 49
+[29-Nov-2017 11:17:40 UTC] PHP Fatal error:  Class 'App\Controller\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 49
+[29-Nov-2017 11:22:10 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 46
+[29-Nov-2017 11:22:25 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 46
+[29-Nov-2017 11:22:38 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Client' not found in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 46
+[29-Nov-2017 11:24:44 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Exception' not found in /home/rupak/public_html/affiliate/croscon/commissionjunction-php/lib/CROSCON/CommissionJunction/Client.php on line 135
+[29-Nov-2017 14:21:09 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Exception' not found in /home/rupak/public_html/affiliate/croscon/commissionjunction-php/lib/CROSCON/CommissionJunction/Client.php on line 135
+[29-Nov-2017 14:21:34 UTC] PHP Fatal error:  Class 'CROSCON\CommissionJunction\Exception' not found in /home/rupak/public_html/affiliate/croscon/commissionjunction-php/lib/CROSCON/CommissionJunction/Client.php on line 135
+[05-Dec-2017 11:03:04 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:09 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:21 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:25 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:30 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:34 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:03:47 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 11:28:31 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 16:09:48 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 17:58:06 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[05-Dec-2017 17:58:10 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 07:51:55 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:04:46 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:09:45 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:06 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:06 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:06 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:07 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:07 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:23 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:25:53 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:27:48 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[06-Dec-2017 08:27:53 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/rupak/public_html/affiliate/config/bootstrap.php on line 25
+[09-Dec-2017 06:46:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1058727 bytes) in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/Database/Statement/PDOStatement.php on line 71
+[09-Dec-2017 07:48:54 UTC] PHP Fatal error:  Call to undefined method App\Controller\Admin\ProductsController::loadModal() in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 55
+[09-Dec-2017 08:40:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1313275 bytes) in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/Database/Statement/PDOStatement.php on line 71
+[09-Dec-2017 10:39:18 UTC] PHP Fatal error:  Class 'Sunra\PhpSimple\HtmlDomParser' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 201
+[09-Dec-2017 10:39:42 UTC] PHP Fatal error:  Class 'Sunra\PhpSimple\HtmlDomParser' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 201
+[09-Dec-2017 10:40:52 UTC] PHP Fatal error:  Class 'App\Controller\Admin\HtmlDomParser' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 201
+[09-Dec-2017 10:42:02 UTC] PHP Fatal error:  Class 'Sunra\PhpSimple\HtmlDomParser' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 201
+[09-Dec-2017 10:42:30 UTC] PHP Fatal error:  Class 'Sunra\PhpSimple\HtmlDomParser' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 201
+[09-Dec-2017 10:58:31 UTC] PHP Fatal error:  Cannot redeclare simplehtmldom_1_5\file_get_html() (previously declared in /home/rupak/public_html/affiliate/vendor/php-simple-html-dom-parser-master/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php:76) in /home/rupak/public_html/affiliate/vendor/php-simple-html-dom-parser-master/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php on line 91
+[09-Dec-2017 11:45:33 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 202
+[09-Dec-2017 12:25:16 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Router' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/ProductsController.php on line 220
+[09-Dec-2017 14:17:41 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 913
+[11-Dec-2017 07:13:56 UTC] PHP Fatal error:  Call to undefined method App\Controller\Admin\PaymentinfosController::loadModal() in /home/rupak/public_html/affiliate/src/Controller/Admin/PaymentinfosController.php on line 65
+[11-Dec-2017 07:16:56 UTC] PHP Fatal error:  Call to undefined method App\Controller\Admin\PaymentinfosController::loadModal() in /home/rupak/public_html/affiliate/src/Controller/Admin/PaymentinfosController.php on line 65
+[11-Dec-2017 07:56:15 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[11-Dec-2017 08:47:55 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 914
+[11-Dec-2017 08:48:53 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 914
+[11-Dec-2017 08:49:44 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp_Folders' not found in /home/rupak/public_html/affiliate/src/Mailchimp/Mailchimp.php on line 195
+[11-Dec-2017 08:51:31 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 914
+[11-Dec-2017 08:52:37 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 914
+[11-Dec-2017 08:55:18 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 909
+[11-Dec-2017 08:56:30 UTC] PHP Fatal error:  Class 'App\Controller\Mailchimp_Lists' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 911
+[11-Dec-2017 09:16:07 UTC] PHP Fatal error:  Class 'Mailch\Mailsend\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 911
+[11-Dec-2017 09:16:43 UTC] PHP Fatal error:  Class 'Mailch\Mailsend\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 911
+[11-Dec-2017 09:20:28 UTC] PHP Fatal error:  Class 'Cake\Mailchimp\Mailchimp' not found in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 908
+[11-Dec-2017 09:25:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/affiliate/src/Controller/UsersController.php on line 915
+[11-Dec-2017 10:55:25 UTC] PHP Fatal error:  Out of memory (allocated 7340032) (tried to allocate 3072 bytes) in /home/rupak/public_html/affiliate/vendor/cakephp/cakephp/src/ORM/Association.php on line 768
+[11-Dec-2017 14:16:16 UTC] PHP Fatal error:  Class 'App\Controller\Admin\TableRegistry' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/SettingsController.php on line 41
+[11-Dec-2017 14:17:12 UTC] PHP Fatal error:  Class 'App\Controller\Admin\TableRegistry' not found in /home/rupak/public_html/affiliate/src/Controller/Admin/SettingsController.php on line 41
+[13-Dec-2017 11:14:02 UTC] PHP Fatal error:  Call to private method CROSCON\CommissionJunction\Client::commissionDetailLookup() from context 'App\Controller\ProductsController' in /home/rupak/public_html/affiliate/src/Controller/ProductsController.php on line 50
+[18-Dec-2017 07:28:08 UTC] PHP Fatal error:  Call to a member function getController() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 19
+[18-Dec-2017 07:30:34 UTC] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 39
+[18-Dec-2017 07:32:54 UTC] PHP Fatal error:  Call to undefined method App\Controller\Component\CartComponent::loadModel() in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 29
+[18-Dec-2017 07:35:10 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 59
+[18-Dec-2017 07:41:27 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 60
+[18-Dec-2017 07:41:59 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 60
+[18-Dec-2017 07:42:05 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 60
+[18-Dec-2017 07:42:17 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 60
+[18-Dec-2017 07:42:43 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 60
+[18-Dec-2017 07:46:34 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 67
+[18-Dec-2017 07:54:46 UTC] PHP Fatal error:  Class 'App\Controller\Component\ClassRegistry' not found in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 65
+[18-Dec-2017 07:55:52 UTC] PHP Fatal error:  Class 'App\Controller\Component\ClassRegistry' not found in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 65
+[18-Dec-2017 07:56:16 UTC] PHP Fatal error:  Class 'App\Controller\Component\ClassRegistry' not found in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 65
+[18-Dec-2017 07:56:58 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/ORM/Table.php on line 1712
+[18-Dec-2017 07:58:58 UTC] PHP Fatal error:  Call to a member function session() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 132
+[18-Dec-2017 08:37:44 UTC] PHP Fatal error:  Call to undefined method Cake\Network\Session::setFlash() in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 270
+[18-Dec-2017 08:38:43 UTC] PHP Fatal error:  Call to undefined method Cake\Network\Session::setFlash() in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 270
+[18-Dec-2017 09:03:39 UTC] PHP Fatal error:  Call to a member function user() on null in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 33
+[18-Dec-2017 09:29:56 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/ORM/Table.php on line 1712
+[18-Dec-2017 10:12:47 UTC] PHP Fatal error:  session_start() [<a href='https://secure.php.net/function.session-start'>function.session-start</a>]: Failed to initialize storage module: user (path: /home/rupak/public_html/crystal/tmp/sessions) in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Network/Session.php on line 326
+[18-Dec-2017 10:13:09 UTC] PHP Fatal error:  session_start() [<a href='https://secure.php.net/function.session-start'>function.session-start</a>]: Failed to initialize storage module: user (path: /var/cpanel/php/sessions/ea-php56) in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Network/Session.php on line 326
+[18-Dec-2017 10:13:11 UTC] PHP Fatal error:  session_start() [<a href='https://secure.php.net/function.session-start'>function.session-start</a>]: Failed to initialize storage module: user (path: /var/cpanel/php/sessions/ea-php56) in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Network/Session.php on line 326
+[18-Dec-2017 10:13:14 UTC] PHP Fatal error:  session_start() [<a href='https://secure.php.net/function.session-start'>function.session-start</a>]: Failed to initialize storage module: user (path: /var/cpanel/php/sessions/ea-php56) in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Network/Session.php on line 326
+[18-Dec-2017 10:13:17 UTC] PHP Fatal error:  session_start() [<a href='https://secure.php.net/function.session-start'>function.session-start</a>]: Failed to initialize storage module: user (path: /var/cpanel/php/sessions/ea-php56) in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Network/Session.php on line 326
+[19-Dec-2017 15:59:14 UTC] PHP Fatal error:  Class 'App\Controller\Component\ClassRegistry' not found in /home/rupak/public_html/crystal/src/Controller/Component/CartComponent.php on line 182
+[20-Dec-2017 06:15:20 UTC] PHP Fatal error:  Call to a member function write() on boolean in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 376
+[20-Dec-2017 06:22:46 UTC] PHP Fatal error:  Call to a member function write() on boolean in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 385
+[20-Dec-2017 06:23:12 UTC] PHP Fatal error:  Call to a member function write() on boolean in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 385
+[20-Dec-2017 08:42:20 UTC] PHP Fatal error:  Class 'App\Controller\TableRegistry' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 417
+[20-Dec-2017 08:44:16 UTC] PHP Fatal error:  Class 'App\Controller\TableRegistry' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 417
+[20-Dec-2017 08:45:23 UTC] PHP Fatal error:  Call to a member function isNew() on integer in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/ORM/Table.php on line 2120
+[21-Dec-2017 09:07:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 507
+[21-Dec-2017 09:07:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 507
+[21-Dec-2017 09:17:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 505
+[21-Dec-2017 09:25:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 503
+[21-Dec-2017 09:37:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 505
+[21-Dec-2017 09:42:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 505
+[29-Dec-2017 08:37:54 UTC] PHP Fatal error:  Class 'PayPal\Types\AP\Receiver' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 587
+[29-Dec-2017 09:32:38 UTC] PHP Fatal error:  Class 'PayPal\Types\AP\Receiver' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 587
+[02-Jan-2018 11:34:06 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 313
+[03-Jan-2018 07:23:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rupak/public_html/crystal/src/Template/Products/edit.ctp on line 280
+[03-Jan-2018 09:05:23 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 311
+[03-Jan-2018 09:06:22 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 309
+[05-Jan-2018 12:22:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/crystal/src/Template/Layout/default.ctp on line 501
+[05-Jan-2018 13:59:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/crystal/src/Template/Users/myproduct.ctp on line 81
+[05-Jan-2018 13:59:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/crystal/src/Template/Users/myproduct.ctp on line 81
+[05-Jan-2018 13:59:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/crystal/src/Template/Users/myproduct.ctp on line 81
+[05-Jan-2018 13:59:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/crystal/src/Template/Users/myproduct.ctp on line 81
+[09-Jan-2018 12:52:26 UTC] PHP Fatal error:  Call to undefined function App\Controller\int() in /home/rupak/public_html/crystal/src/Controller/UsersController.php on line 687
+[10-Jan-2018 10:34:28 UTC] PHP Fatal error:  Class 'PayPal\Types\AP\Receiver' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 652
+[10-Jan-2018 10:34:44 UTC] PHP Fatal error:  Class 'PayPal\Types\AP\Receiver' not found in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 652
+[12-Jan-2018 10:29:30 UTC] PHP Fatal error:  Call to a member function saveAll() on boolean in /home/rupak/public_html/crystal/src/Controller/StoresController.php on line 564
+[15-Jan-2018 09:15:58 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 421
+[15-Jan-2018 11:32:29 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:33:07 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:33:48 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:34:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:35:56 UTC] PHP Fatal error:  Call to undefined function App\Controller\int() in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:37:11 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:37:23 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 11:39:00 UTC] PHP Fatal error:  Unsupported operand types in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 609
+[15-Jan-2018 13:47:10 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rupak/public_html/crystal/src/Template/Stores/index.ctp on line 69
+[18-Jan-2018 07:13:49 UTC] PHP Fatal error:  Call to undefined method Cake\ORM\ResultSet::all() in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 233
+[18-Jan-2018 07:13:55 UTC] PHP Fatal error:  Call to undefined method Cake\ORM\ResultSet::all() in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 233
+[18-Jan-2018 07:14:52 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 238
+[18-Jan-2018 07:18:40 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/rupak/public_html/crystal/src/Controller/ProductsController.php on line 238
+[18-Jan-2018 10:38:12 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/rupak/public_html/crystal/src/Template/Users/add.ctp on line 49
+[19-Jan-2018 11:52:44 UTC] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ',' or ';' in /home/rupak/public_html/crystal/src/Template/Admin/Products/index.ctp on line 80
+[22-Jan-2018 07:43:37 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 07:45:17 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 07:45:34 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 07:51:59 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 07:56:58 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 09:18:51 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 09:24:19 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 09:24:28 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 09:26:05 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 09:26:55 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:18:15 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:23:46 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:24:52 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:26:08 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/rupak/public_html/crystal/src/Controller/Admin/OrdersController.php on line 84
+[22-Jan-2018 10:27:06 UTC] PHP Fatal error:  Class 'App\Controller\Admin\ConnectionManager' not found in /home/rupak/public_html/crystal/src/Controller/Admin/OrdersController.php on line 71
+[22-Jan-2018 10:36:44 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:41:53 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:41:58 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:47:33 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:47:37 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 10:58:42 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 11:00:21 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 11:11:23 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[22-Jan-2018 13:05:20 UTC] PHP Fatal error:  Class 'App\Controller\Admin\DateTime' not found in /home/rupak/public_html/crystal/src/Controller/Admin/OrdersController.php on line 91
+[22-Jan-2018 13:06:51 UTC] PHP Fatal error:  Class 'Cake\I18n\DateTime' not found in /home/rupak/public_html/crystal/src/Controller/Admin/OrdersController.php on line 92
+[22-Jan-2018 13:50:42 UTC] PHP Fatal error:  Call to a member function format() on array in /home/rupak/public_html/crystal/vendor/cakephp/cakephp/src/Database/Type/DateTimeType.php on line 117
+[02-Apr-2018 07:47:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or '{' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 86
+[02-Apr-2018 11:44:30 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 208
+[02-Apr-2018 11:44:33 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 208
+[02-Apr-2018 12:00:26 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 269
+[02-Apr-2018 12:32:13 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 330
+[03-Apr-2018 09:51:21 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 58
+[03-Apr-2018 09:52:43 UTC] PHP Fatal error:  Call to a member function createS3() on null in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 62
+[03-Apr-2018 09:59:28 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Aws\Sdk' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 65
+[03-Apr-2018 10:00:31 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Aws\Sdk' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 67
+[03-Apr-2018 10:01:42 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Aws\Sdk' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 68
+[03-Apr-2018 10:14:48 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 58
+[03-Apr-2018 10:16:24 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:17:49 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:27:25 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:28:02 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:28:24 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:28:27 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:29:01 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:30:33 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:32:28 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:32:31 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:32:54 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 10:33:18 UTC] PHP Fatal error:  Class 'Aws\S3\S3Client' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 11:34:15 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 87
+[03-Apr-2018 11:44:10 UTC] PHP Fatal error:  Undefined class constant 'ACL_PUBLIC_READ' in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 91
+[03-Apr-2018 12:00:50 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 12:01:59 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 12:03:10 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 61
+[03-Apr-2018 12:05:11 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 61
+[03-Apr-2018 12:05:26 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 61
+[03-Apr-2018 12:08:06 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 67
+[03-Apr-2018 12:09:45 UTC] PHP Fatal error:  Call to undefined function App\Controller\Admin\file_exist() in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 61
+[03-Apr-2018 12:16:10 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 60
+[03-Apr-2018 12:19:12 UTC] PHP Fatal error:  Class 'App\Controller\Admin\S3' not found in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 62
+[04-Apr-2018 13:47:17 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rupak/public_html/video/src/Template/Admin/Videos/index.ctp on line 68
+[04-Apr-2018 14:20:40 UTC] PHP Fatal error:  Call to a member function errors() on null in /home/rupak/public_html/video/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Apr-2018 14:27:22 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 312
+[06-Apr-2018 12:58:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 473
+[06-Apr-2018 12:58:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 473
+[06-Apr-2018 12:58:50 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 473
+[10-Apr-2018 11:15:43 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 495
+[10-Apr-2018 11:16:22 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 495
+[11-Apr-2018 11:52:36 UTC] PHP Fatal error:  Call to a member function subject() on array in /home/rupak/public_html/video/src/Controller/UsersController.php on line 113
+[12-Apr-2018 10:13:07 UTC] PHP Parse error:  syntax error, unexpected ''label'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/rupak/public_html/video/src/Template/Users/add.ctp on line 70
+[12-Apr-2018 10:13:43 UTC] PHP Parse error:  syntax error, unexpected '',label'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/rupak/public_html/video/src/Template/Users/add.ctp on line 70
+[12-Apr-2018 10:13:46 UTC] PHP Parse error:  syntax error, unexpected '',label'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/rupak/public_html/video/src/Template/Users/add.ctp on line 70
+[12-Apr-2018 13:52:10 UTC] PHP Fatal error:  Cannot use Cake\Routing\Router as Router because the name is already in use in /home/rupak/public_html/video/src/Controller/UsersController.php on line 10
+[13-Apr-2018 06:57:21 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Router' not found in /home/rupak/public_html/video/src/Controller/Admin/UsersController.php on line 265
+[13-Apr-2018 06:57:27 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Router' not found in /home/rupak/public_html/video/src/Controller/Admin/UsersController.php on line 265
+[13-Apr-2018 11:51:47 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 80
+[13-Apr-2018 11:51:50 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 80
+[13-Apr-2018 14:22:08 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rupak/public_html/video/src/Template/Users/edit.ctp on line 61
+[19-Apr-2018 12:45:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rupak/public_html/video/src/Controller/Admin/StaticpagesController.php on line 45
+[19-Apr-2018 12:46:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rupak/public_html/video/src/Controller/Admin/StaticpagesController.php on line 46
+[19-Apr-2018 12:46:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rupak/public_html/video/src/Controller/Admin/StaticpagesController.php on line 46
+[20-Apr-2018 10:14:37 UTC] PHP Fatal error:  Call to a member function format() on null in /home/rupak/public_html/video/src/Template/Admin/Videos/index.ctp on line 53
+[20-Apr-2018 11:19:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/video/src/Model/Table/UsersTable.php on line 105
+[20-Apr-2018 11:19:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/video/src/Model/Table/UsersTable.php on line 105
+[01-May-2018 06:49:55 UTC] PHP Fatal error:  Call to undefined function App\Controller\geoip_region_by_name() in /home/rupak/public_html/video/src/Controller/VideosController.php on line 64
+[03-May-2018 12:08:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 165
+[03-May-2018 12:18:14 UTC] PHP Fatal error:  Call to a member function all() on null in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 152
+[03-May-2018 13:02:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 569
+[03-May-2018 13:02:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rupak/public_html/video/src/Controller/Admin/VideosController.php on line 569
+[03-May-2018 13:04:45 UTC] PHP Fatal error:  Call to a member function errors() on null in /home/rupak/public_html/video/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[07-May-2018 10:58:37 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 11:03:59 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 11:04:50 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 11:08:20 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 11:13:25 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 11:16:40 UTC] PHP Fatal error:  Call to undefined method App\Controller\PlansController::displaycart() in /home/rupak/public_html/video/src/Controller/PlansController.php on line 116
+[07-May-2018 12:03:13 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rupak/public_html/video/src/Controller/PlansController.php on line 150
+[07-May-2018 12:05:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rupak/public_html/video/src/Controller/PlansController.php on line 150
+[08-May-2018 11:43:36 UTC] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rupak/public_html/video/src/Controller/PlansController.php on line 174
+[08-May-2018 11:46:31 UTC] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rupak/public_html/video/src/Controller/PlansController.php on line 174
+[08-May-2018 11:47:19 UTC] PHP Fatal error:  Class 'CoinGate\Merchant\Order' not found in /home/rupak/public_html/video/src/Controller/PlansController.php on line 174
+[08-May-2018 11:53:17 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rupak/public_html/video/src/Controller/PlansController.php on line 155
+[08-May-2018 11:59:39 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rupak/public_html/video/src/Controller/PlansController.php on line 156
+[09-May-2018 04:37:01 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/rupak/public_html/video/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[09-May-2018 06:18:39 UTC] PHP Fatal error:  Call to a member function from() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 250
+[09-May-2018 06:31:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rupak/public_html/video/src/Controller/AppController.php on line 153
+[09-May-2018 06:55:48 UTC] PHP Parse error:  syntax error, unexpected '$userplan' (T_VARIABLE) in /home/rupak/public_html/video/src/Controller/Admin/UsersController.php on line 153
+[09-May-2018 09:58:13 UTC] PHP Fatal error:  Call to a member function patchEntity() on boolean in /home/rupak/public_html/video/src/Controller/VideosController.php on line 456
+[09-May-2018 10:00:56 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/rupak/public_html/video/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[09-May-2018 10:21:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 419
+[09-May-2018 10:21:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 419
+[10-May-2018 09:56:28 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 270
+[10-May-2018 09:56:31 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 270
+[10-May-2018 09:56:33 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 270
+[10-May-2018 11:04:22 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/VideosController.php on line 186
+[10-May-2018 12:06:48 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 248
+[10-May-2018 12:15:39 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 248
+[10-May-2018 12:15:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 534
+[10-May-2018 12:15:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 534
+[10-May-2018 12:15:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rupak/public_html/video/src/Controller/VideosController.php on line 534
+[11-May-2018 10:49:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 229
+[11-May-2018 10:49:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 229
+[11-May-2018 10:50:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:17:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:17:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:17:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:17:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:19:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:19:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:19:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:41:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:45:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:46:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:46:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:46:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 11:46:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/video/src/Controller/VideosController.php on line 230
+[11-May-2018 12:07:20 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/UsersController.php on line 187
+[14-May-2018 05:14:51 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 260
+[14-May-2018 06:04:00 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 250
+[14-May-2018 06:23:42 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 250
+[14-May-2018 06:55:00 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 260
+[14-May-2018 06:55:19 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 260
+[14-May-2018 07:28:21 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:29:31 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:29:35 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:33:05 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:35:15 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:39:49 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 71
+[14-May-2018 07:49:17 UTC] PHP Fatal error:  Call to a member function transfer() on null in /home/rupak/public_html/video/src/Controller/VideosController.php on line 82
+[14-May-2018 07:49:43 UTC] PHP Fatal error:  Call to a member function transfer() on null in /home/rupak/public_html/video/src/Controller/VideosController.php on line 82
+[14-May-2018 07:53:30 UTC] PHP Fatal error:  Class 'Graze\GuzzleHttp\JsonRpc\Client' not found in /home/rupak/public_html/video/vendor/monero-php/src/Wallet.php on line 17
+[14-May-2018 08:37:44 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:37:48 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:38:34 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:38:39 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:38:58 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:39:00 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:39:23 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:39:26 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:39:30 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:41:43 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:42:28 UTC] PHP Fatal error:  Class 'Cake\Http\Server' not found in /home/rupak/public_html/video/webroot/index.php on line 34
+[14-May-2018 08:44:04 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:44:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:46:06 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:46:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:46:45 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:46:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:47:58 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:47:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:01 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:04 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:06 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:29 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:34 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:49:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:50:03 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:50:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:50:06 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:50:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:51:15 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:51:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:51:47 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:51:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:53:12 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:53:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:53:17 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 08:53:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 09:09:36 UTC] PHP Warning:  require_once(/home/rupak/public_html/video/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 09:09:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rupak/public_html/video/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rupak/public_html/video/vendor/autoload.php on line 5
+[14-May-2018 09:15:21 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 70
+[14-May-2018 09:15:54 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 70
+[14-May-2018 09:22:25 UTC] PHP Fatal error:  Class 'App\Controller\Monero\Wallet' not found in /home/rupak/public_html/video/src/Controller/VideosController.php on line 70
+[15-May-2018 06:16:29 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/CategoriesController.php on line 260
+[15-May-2018 06:21:14 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/rupak/public_html/video/src/Controller/PlansController.php on line 250
